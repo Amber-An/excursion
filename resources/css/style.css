@@ -12,6 +12,10 @@ h1 {
   font-size: 50px;
 }
 
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
 a {
   color: Aquamarine;
   font-size: 16px;
@@ -25,4 +29,5 @@ a {
 .Copyright {
   color: gray;
   font-size: 21px;
+  text-align: right;
 }
